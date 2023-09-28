@@ -1,6 +1,6 @@
 # state_management_getx
 
-A new Flutter project.
+In this Flutter project, I've used GETX state management to simplify navigation and enable language switching between Urdu and English. With GetX, you can effortlessly move between screens using just a single line of code.
 
 ## Getting Started
 
